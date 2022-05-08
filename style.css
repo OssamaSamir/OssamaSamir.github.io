@@ -8,7 +8,7 @@
 
 .logo {
     display: flex;
-    color: #000;
+    color: #0191B4;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -17,7 +17,7 @@
 }
 
 .start {
-    background: linear-gradient( #DFB15D, #DFB15D);
+    background: linear-gradient( #c9d0f8, #c9d0f8);
     /**/
     width: 100%;
     float: left;
@@ -38,7 +38,7 @@
 }
 
 .start ul li a {
-    color: #000;
+    color: #005f5f;
     font-family: Arial;
     text-decoration: none;
     font-weight: bold;
@@ -46,7 +46,7 @@
 }
 
 .start ul li a:hover {
-    color: #1317f7;
+    color: #F04393;
 }
 
 
@@ -69,7 +69,7 @@
     width: 300px;
     height: 40px;
     background: transparent;
-    border: 1.1px solid #000;
+    border: 1.1px solid #0191B4;
     color: #000;
     font-size: 15px;
     border-bottom-right-radius: 5px;
@@ -84,8 +84,8 @@
     top: -5px;
     width: 100px;
     height: 40px;
-    background: #000;
-    border: 2px solid #000;
+    background: #0191B4;
+    border: 2px solid #0191B4;
     margin-top: 20px;
     color: #fff;
     font-size: 15px;
@@ -104,7 +104,7 @@
 
 .menu {
     position: absolute;
-    color: #000;
+    color: #0191B4;
     font-size: 40px;
     width: 37px;
     height: 40px;
@@ -121,7 +121,7 @@
 
 .mnu {
     display: none;
-    background: #DFB15B;
+    background: #0191B4;
     width: 240px;
     position: absolute;
     right: 3px;
@@ -139,7 +139,7 @@
 }
 
 .mnu ul li a:hover {
-    color: #1317f7;
+    color: #F04393;
 }
 
 .activ {
@@ -158,7 +158,7 @@
     padding-top: 10vh;
     width: 100%;
     height: 100vh;
-    background: linear-gradient( #f5e1bd, #f5e1bd);
+    background: linear-gradient( #94B0B7, #94B0B7);
 }
 
 .scc {
@@ -186,7 +186,7 @@
 
 .desc2 {
     font-size: 40px;
-    color: #000;
+    color: #0191B4;
 }
 
 .desc25 {
@@ -196,13 +196,13 @@
 
 .desc3 {
     font-size: 30px;
-    color: #000;
+    color: #615eff;
 }
 
 .buto {
     width: 220px;
     height: 38px;
-    background: #DFB15B;
+    background: #0191B4;
     border-radius: 4.5rem;
 }
 
@@ -223,7 +223,7 @@
 .cn {
     width: 200px;
     height: 50px;
-    background: #DFB15B;
+    background: #0191B4;
     margin-bottom: 10px;
     margin-left: 20px;
     font-size: 24px;
@@ -254,7 +254,7 @@
 
 .end {
     height: 20vh;
-    background: linear-gradient( #DFB15B, #DFB15B);
+    background: linear-gradient( #c9d0f8, #c9d0f8);
 }
 
 .end .fot {
@@ -266,11 +266,11 @@
 
 .end .fot a {
     font-size: 25px;
-    color: #000;
+    color: #0191B4;
 }
 
 .end .fot a:hover {
-    color: #1317f7;
+    color: #F04393;
 }
 
 
